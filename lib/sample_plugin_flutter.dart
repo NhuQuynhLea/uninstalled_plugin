@@ -13,3 +13,6 @@ class SamplePluginFlutter {
     return SamplePluginFlutterPlatform.instance.UninstallApp(package);
   }
 }
+
+
+//
